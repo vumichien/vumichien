@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vumichien&show_icons=true&theme=highcontrast)](https://github.com/vumichien/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&langs_count=8)](https://github.com/vumichien/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien)](https://github.com/vumichien/github-readme-stats)
 
