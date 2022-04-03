@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
-   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="github stats" height="230px" src="https://github-readme-stats.vercel.app/api?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+   <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
   <a href="https://github.com/vumichien/github-readme-stats">
   </a>
 </p>
