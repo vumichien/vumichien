@@ -13,7 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vumichien&show_icons=true&theme=highcontrast)](https://github.com/vumichien/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&layout=compact)](https://github.com/vumichien/github-readme-stats) 
+-->
+
+<p align="left"> 
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/vumichien/github-readme-stats">
+    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/vumichien/github-readme-stats">
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+
 
