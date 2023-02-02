@@ -14,17 +14,20 @@ Here are some ideas to get you started:
 
 -->
 💻 Introduction:
+
 🙋‍♀️ Hi there! I'm a Data Scientist.
 
 🧠 Job Description:
 📊 As a Data Scientist, I use statistical analysis, machine learning, and data visualization to help organizations make informed decisions based on data.
 
 🔎 Skills:
+
 💻 Proficient in programming languages such as Python and R
 📈 Experienced in data analysis and statistical modeling
 📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
 
 💼 Experience:
+
 💼 Worked on various projects involving data analysis and predictive modeling for clients in different industries.
 💼 Developed and deployed machine learning models to enhance business processes and improve decision-making.
 
