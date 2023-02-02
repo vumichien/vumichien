@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
 
 <img src="https://raw.githubusercontent.com/vumichien/vumichien/output/github-contribution-grid-snake.svg" />
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vumichien&theme=vue)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vumichien&show_icons=true&theme=highcontrast)](https://github.com/vumichien/github-readme-stats)
