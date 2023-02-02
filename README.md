@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 💼 Developed and deployed machine learning models to enhance business processes and improve decision-making.
 
 💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
+
+![snake gif](https://github.com/vumichien/vumichien/blob/output/github-contribution-grid-snake.gif)
