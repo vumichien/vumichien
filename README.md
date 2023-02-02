@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🔎 Skills:
 
-💻 Proficient in programming languages such as Python and R
+💻 Proficient in programming languages such as Python
 📈 Experienced in data analysis and statistical modeling
 📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
 
