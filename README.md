@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
 
-![snake gif](https://github.com/vumichien/vumichien/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/vumichien/vumichien/output/github-contribution-grid-snake.svg" />
