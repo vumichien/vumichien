@@ -11,10 +11,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+💻 Introduction:
+🙋‍♀️ Hi there! I'm a Data Scientist.
+
+🧠 Job Description:
+📊 As a Data Scientist, I use statistical analysis, machine learning, and data visualization to help organizations make informed decisions based on data.
+
+🔎 Skills:
+💻 Proficient in programming languages such as Python and R
+📈 Experienced in data analysis and statistical modeling
+📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
+
+💼 Experience:
+💼 Worked on various projects involving data analysis and predictive modeling for clients in different industries.
+💼 Developed and deployed machine learning models to enhance business processes and improve decision-making.
+
+💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vumichien&show_icons=true&theme=highcontrast)](https://github.com/vumichien/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&layout=compact)](https://github.com/vumichien/github-readme-stats)
  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
--->
-🌱 Hi I am data scientist 
+
+
+
+
+
 
 
