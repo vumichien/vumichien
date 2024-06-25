@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
 
 💼 Connect with me:
+
 [LinkedIn](https://www.linkedin.com/in/vumichien/) || [Google Scholar](https://scholar.google.com/citations?user=wcbZoCgAAAAJ&hl=en) || [Semantic Schorlar](https://www.semanticscholar.org/author/Minh-Chien-Vu/1484109150)
 
 
