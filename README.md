@@ -36,7 +36,15 @@ Here are some ideas to get you started:
 💼 Developed and deployed machine learning models to enhance business processes and improve decision-making.
 
 💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
-
+<!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
+-->
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-green-animate.svg" />
+	</picture>
+</p>
 
 
