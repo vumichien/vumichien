@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
 
-<img src="https://raw.githubusercontent.com/vumichien/vumichien/output/github-snake.svg" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
