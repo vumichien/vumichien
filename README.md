@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 💻 Introduction:
 
-🙋‍♀️ Hi there! I'm a Data Scientist.
+🙋‍♀️ Hi there!
 
 🧠 Job Description:
 📊 As a Data Scientist, I use statistical analysis, machine learning, and data visualization to help organizations make informed decisions based on data.
@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 📈 Experienced in data analysis and statistical modeling
 📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
 
-💼 Experience:
+💼 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/vumichien/) || [Google Scholar](https://scholar.google.com/citations?user=wcbZoCgAAAAJ&hl=en) || [Semantic Schorlar](https://www.semanticscholar.org/author/Minh-Chien-Vu/1484109150)
 
-💼 Worked on various projects involving data analysis and predictive modeling for clients in different industries.
-💼 Developed and deployed machine learning models to enhance business processes and improve decision-making.
 
-💻 Ready to work on new and exciting projects, and help organizations turn data into insights and action.
 <!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
 -->
