@@ -17,18 +17,8 @@ Here are some ideas to get you started:
  <img alt="Top Langs" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumichien&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" />
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vumichien&theme=vue)
 -->
-💻 Introduction:
 
 🙋‍♀️ Hi there!
-
-🧠 Job Description:
-📊 As a Data Scientist, I use statistical analysis, machine learning, and data visualization to help organizations make informed decisions based on data.
-
-🔎 Skills:
-
-💻 Proficient in programming languages such as Python
-📈 Experienced in data analysis and statistical modeling
-📊 Knowledgeable in data visualization tools like Tableau and Matplotlib
 
 💼 Connect with me:
 
