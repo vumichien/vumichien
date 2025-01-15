@@ -36,4 +36,22 @@ Here are some ideas to get you started:
 	</picture>
 </p>
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-night-view.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-season-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-season-animate.svg" />
+	</picture>
+</p>
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-night-green.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-south-season-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/profile-south-season-animate.svg" />
+	</picture>
+</p>
+
+<p align="center">
+  <img alt="Radar Chart" src="https://raw.githubusercontent.com/vumichien/vumichien/main/profile-3d-contrib/radar-chart.svg" />
+</p>
