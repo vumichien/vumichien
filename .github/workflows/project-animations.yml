@@ -1,0 +1,93 @@
+name: Generate Project Animations
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate_animations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Or a recent LTS version
+
+      - name: Install dependencies
+        run: npm install @octokit/rest
+
+      - name: Fetch project names
+        id: fetch_names # Add an id to the step if you want to use its output later
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: node scripts/fetch-projects.js
+      
+      # This step is just for verification, can be removed later
+      - name: Verify project names
+        run: |
+          echo "Verifying content of project-names.json"
+          cat project-names.json
+
+      # Placeholder for generating SVGs
+      - name: Generate SVGs
+        run: |
+          PROJECT_NAMES_FILE="project-names.json"
+          if [ ! -f "$PROJECT_NAMES_FILE" ]; then
+            echo "Error: Project names file ($PROJECT_NAMES_FILE) not found."
+            exit 1
+          fi
+          
+          # Read project names and process a limited number (e.g., first 5)
+          # Using jq to parse JSON and head to limit
+          PROJECT_COUNT=0
+          MAX_PROJECTS=5 # Limit the number of SVGs generated per run
+
+          # Ensure jq is available
+          if ! command -v jq &> /dev/null
+          then
+              echo "jq could not be found, installing..."
+              sudo apt-get update && sudo apt-get install -y jq
+          fi
+
+          for project_name in $(jq -r '.[]' "$PROJECT_NAMES_FILE" | head -n $MAX_PROJECTS); do
+            if [ -n "$project_name" ]; then
+              echo "Generating SVG for project: $project_name"
+              node scripts/generate-svg-animation.js "$project_name"
+              PROJECT_COUNT=$((PROJECT_COUNT + 1))
+            fi
+          done
+          echo "Generated $PROJECT_COUNT SVG animations."
+          if [ $(jq -r '. | length' "$PROJECT_NAMES_FILE") -gt $MAX_PROJECTS ]; then
+            echo "Note: More projects exist but only the first $MAX_PROJECTS were processed in this run."
+          fi
+
+      - name: Commit and push SVGs
+        run: |
+          # Ensure the output directory exists before trying to check for changes within it
+          # This prevents errors if no SVGs were generated (e.g. no public projects)
+          OUTPUT_DIR="dist/project-animations"
+          if [ ! -d "$OUTPUT_DIR" ]; then
+            echo "Output directory $OUTPUT_DIR does not exist. No SVGs to commit."
+            exit 0 # Exit successfully, nothing to do
+          fi
+
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Check if there are any changes in the specific directory
+          if ! git diff --quiet --exit-code "$OUTPUT_DIR"; then
+            echo "Changes detected in $OUTPUT_DIR. Committing..."
+            git add "$OUTPUT_DIR"
+            git commit -m "feat: auto-generate project animations ✨" -m "Generated new/updated animated SVGs for project showcases."
+            git push
+          else
+            echo "No changes in $OUTPUT_DIR to commit."
+          fi
