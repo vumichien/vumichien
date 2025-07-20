@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 	</picture>
 </p>
 
+<a href="https://app.daily.dev/chienvu62"><img src="https://api.daily.dev/devcards/v2/BSWvviJi1k8TNLHKnpBzh.png?type=default&r=ruz" width="356" alt="Chien Vu's Dev Card"/></a>
 
