@@ -17,4 +17,3 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
-          input_type: wide
