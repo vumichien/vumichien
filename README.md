@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 [LinkedIn](https://www.linkedin.com/in/vumichien/) || [Google Scholar](https://scholar.google.com/citations?user=wcbZoCgAAAAJ&hl=en) || [Semantic Schorlar](https://www.semanticscholar.org/author/Minh-Chien-Vu/1484109150)
 
+<a href="https://app.daily.dev/chienvu62"><img src="https://api.daily.dev/devcards/v2/BSWvviJi1k8TNLHKnpBzh.png?type=default&r=ruz" width="356" alt="Chien Vu's Dev Card"/></a>
 
 <!--
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -36,5 +37,5 @@ Here are some ideas to get you started:
 	</picture>
 </p>
 
-<a href="https://app.daily.dev/chienvu62"><img src="https://api.daily.dev/devcards/v2/BSWvviJi1k8TNLHKnpBzh.png?type=default&r=ruz" width="356" alt="Chien Vu's Dev Card"/></a>
+
 
